@@ -18,3 +18,4 @@ video_file2 = open('DesignCase2.mp4', 'rb')
 video_bytes2 = video_file2.read()
 
 st.video(video_bytes2)
+st.sidebar.success("在上方选择一个演示。")
