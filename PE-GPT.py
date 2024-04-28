@@ -3,7 +3,7 @@ st.set_page_config(page_title="PE-GPT", page_icon="💎", layout="centered",
                    initial_sidebar_state="auto", menu_items=None)
 
 
-st.write("# Power Electronics GPT (PE-GPT)🤖,Welcome👋")
+st.write("# Power Electronics GPT (PE-GPT)🤖,Welcome!👋")
 st.sidebar.success("Please select a demo above.")
 st.markdown(
     """
