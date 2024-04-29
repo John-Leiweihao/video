@@ -11,7 +11,9 @@ st.markdown(
     """
 )
 st.image('PE-GPT.png')
-st.markdown(  ### Design Case1 (analyzed in the manuscript):
+st.markdown( 
+  """
+  ### Design Case1 (analyzed in the manuscript):
     - 1st user request: minimal current stress  
     - 2nd user request (iterative design): extended soft switching ranges  
     - 3rd user request: fine-tuning of PANN by uploading few time-series samples  
