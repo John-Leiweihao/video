@@ -10,7 +10,7 @@ st.markdown(
     This repository presents demo videos of using "Power Electronics GPT (PE-GPT)" for the modulation design of dual-active-bridge converters. Source codes will be open-sourced progressively.
     """
 )
-st.image('PE-GPT.png')
+#st.image('PE-GPT.png')
 st.markdown( 
   """
   ### Design Case1 (analyzed in the manuscript):
