@@ -23,4 +23,3 @@ st.markdown(
     - 2nd user request (iterative design): enhanced current stress performance
 """
 )
-
