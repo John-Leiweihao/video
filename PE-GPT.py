@@ -7,7 +7,7 @@ st.write("# PE-GPT🤖 : A New Paradigm for Power Electronics Design,Welcome!�
 st.sidebar.success("Please select a demo above.")
 col1, col2, col3 = st.columns([1, 2, 1])
 with col2:
-    st.image('PE-GPT logo.png', width=300)  # 设置图片宽度为300像素，可以根据需要调整
+    st.image('PE-GPT logo.png', width=200)  # 设置图片宽度为300像素，可以根据需要调整
 st.markdown(
     """
     This repository presents demo videos of using "Power Electronics GPT (PE-GPT)" diverse design applications in power electronics. Source codes will be open-sourced progressively.
