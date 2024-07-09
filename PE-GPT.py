@@ -5,7 +5,7 @@ st.set_page_config(page_title="PE-GPT", page_icon="💎", layout="centered",
 
 st.write("# PE-GPT🤖 : A New Paradigm for Power Electronics Design,Welcome!👋")
 st.sidebar.success("Please select a demo above.")
-st.image('PE-GPT logo.png')
+st.image('PE-GPT logo.png',wid=300)
 st.markdown(
     """
     This repository presents demo videos of using "Power Electronics GPT (PE-GPT)" diverse design applications in power electronics. Source codes will be open-sourced progressively.
