@@ -5,7 +5,7 @@ import streamlit as st
 st.set_page_config(page_title="PE-GPT", page_icon="💎", layout="centered",
                    initial_sidebar_state="auto", menu_items=None)
 
-col1, col2, col3 = st.columns([1, 2, 1])
+col1, col2, col3 = st.columns([2, 2, 1])
 with col2:
     st.image('PE-GPT logo.png', width=100)  # 设置图片宽度为300像素，可以根据需要调整
 
