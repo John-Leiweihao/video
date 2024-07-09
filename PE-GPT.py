@@ -21,12 +21,12 @@ st.markdown(
 #st.image('PE-GPT.png')
 st.markdown( 
   """
-  ### Design Case1 (analyzed in the manuscript):
+  ### Design Case 1 (analyzed in the manuscript): Modulation Design for DAB Converters - 1
     - 1st user request: minimal current stress  
     - 2nd user request (iterative design): extended soft switching ranges  
     - 3rd user request: fine-tuning of PANN by uploading few time-series samples  
 
-    ### Design Case 2:
+    ### Design Case 2: Modulation Design for DAB Converters - 2
     - 1st user request: minimal current stress, full-range zero voltage switching, and relatively easy implementation  
     - 2nd user request (iterative design): enhanced current stress performance
     ### Design Case 3 (analyzed in the manuscript): Circuit Design for Buck Converters
