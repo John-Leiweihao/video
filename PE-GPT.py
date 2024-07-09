@@ -3,7 +3,7 @@ st.set_page_config(page_title="PE-GPT", page_icon="💎", layout="centered",
                    initial_sidebar_state="auto", menu_items=None)
 
 
-st.write("# PE-GPT🤖 : A New Paradigm for Power Electronics Design,Welcome!👋")
+st.write("PE-GPT🤖 : A New Paradigm for Power Electronics Design,Welcome!👋")
 st.sidebar.success("Please select a demo above.")
 col1, col2, col3 = st.columns([1, 2, 1])
 with col2:
