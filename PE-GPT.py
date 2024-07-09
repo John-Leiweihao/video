@@ -5,6 +5,7 @@ st.set_page_config(page_title="PE-GPT", page_icon="💎", layout="centered",
 
 st.write("# PE-GPT🤖 : A New Paradigm for Power Electronics Design,Welcome!👋")
 st.sidebar.success("Please select a demo above.")
+st.image('PE-GPT logo.png')
 st.markdown(
     """
     This repository presents demo videos of using "Power Electronics GPT (PE-GPT)" diverse design applications in power electronics. Source codes will be open-sourced progressively.
@@ -21,5 +22,9 @@ st.markdown(
     ### Design Case 2:
     - 1st user request: minimal current stress, full-range zero voltage switching, and relatively easy implementation  
     - 2nd user request (iterative design): enhanced current stress performance
+    ### Design Case 3 (analyzed in the manuscript): Circuit Design for Buck Converters
+    - 1st user request: current and voltage ripples within respective boundaries, and high-power density
+    - 2nd user request (PE-specific reasoning): rationale behind the designed circuit parameters, analysis of current and voltage harmonics
+    - 3rd user request (Interact with simulation model): verify design in PLECS simulation
 """
 )
