@@ -5,7 +5,7 @@ st.set_page_config(page_title="PE-GPT", page_icon="💎", layout="centered",
 
 st.markdown(
     """
-    <h2 style='font-size: 30px;'>PE-GPT🤖 : A New Paradigm for Power Electronics Design, Welcome!👋</h2>
+    <h2 style='font-size: 40px;'>PE-GPT🤖 : A New Paradigm for Power Electronics Design, Welcome!👋</h2>
     """,
     unsafe_allow_html=True
 )
