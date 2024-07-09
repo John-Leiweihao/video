@@ -3,11 +3,11 @@ st.set_page_config(page_title="PE-GPT", page_icon="💎", layout="centered",
                    initial_sidebar_state="auto", menu_items=None)
 
 
-st.write("# Power Electronics GPT (PE-GPT)🤖,Welcome!👋")
+st.write("# PE-GPT🤖 : A New Paradigm for Power Electronics Design,Welcome!👋")
 st.sidebar.success("Please select a demo above.")
 st.markdown(
     """
-    This repository presents demo videos of using "Power Electronics GPT (PE-GPT)" for the modulation design of dual-active-bridge converters. Source codes will be open-sourced progressively.
+    This repository presents demo videos of using "Power Electronics GPT (PE-GPT)" diverse design applications in power electronics. Source codes will be open-sourced progressively.
     """
 )
 #st.image('PE-GPT.png')
